@@ -1,7 +1,7 @@
-<img src="https://user-images.githubusercontent.com/31222514/151182722-0ea6238e-411a-467b-abdf-5e24781515cd.png" width="0" height="0" alt="profile picture">
+
 
 # Junior Full stack Developer
-### About me
+### Hey 👋 I'm Dipali.
 Originally from India. My passion is to become a developer to solve real-life problems. I was away from this field for some years but I'm back and eager to collaborate with my computer science skills and learn a lot more along the way.  
 
 I'm a fresh graduated from Codaisseur academy where I've learned the most up to date technologies.
