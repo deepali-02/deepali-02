@@ -5,7 +5,7 @@
 Originally from India. My passion is to become a developer to solve real-life problems. I was away from this field for some years but I'm back and eager to collaborate with my computer science skills and learn a lot more along the way.  
 
 I'm a fresh graduated from Codaisseur academy where I've learned the most up to date technologies.
-I feel comfortable building full stack apps. Now I can call myself a full-stack web developer.
+I feel comfortable building full stack apps. Now I can call myself a full-stack web developer. Currently, I'm thrilled to be applying my skills as a junior full stack developer at Small Giants. 
 
 I'm an energetic, passionate and waiting for new challenges . 
 
